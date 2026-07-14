@@ -1,2 +1,6 @@
-# CreateMind AI
-Official website repository for CreateMind AI — an AI-powered creative content production studio.
+{
+  "name": "createmind-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official CreateMind AI creative production studio website"
+}
