@@ -1,0 +1,9 @@
+export default function HomePage() {
+  return (
+    <main>
+      <h1>CreateMind AI</h1>
+
+      <p>Ideas Into Intelligent Creativity.</p>
+    </main>
+  );
+}
