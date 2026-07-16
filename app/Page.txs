@@ -1,0 +1,26 @@
+import Navbar from "@/components/Navbar";
+
+export default function HomePage() {
+  return (
+    <>
+      <Navbar />
+
+      <main className="pt-32 flex items-center justify-center min-h-screen">
+        <div className="text-center">
+
+          <h1 className="text-6xl font-bold">
+            TURN IDEAS INTO
+            <br />
+            VISUAL IMPACT.
+          </h1>
+
+          <p className="mt-6 text-xl text-gray-300">
+            AI-powered creative production for brands,
+            businesses, and creators.
+          </p>
+
+        </div>
+      </main>
+    </>
+  );
+}
